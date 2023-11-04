@@ -1,0 +1,83 @@
+[
+ {
+  "name": "Kante",
+  "dateofbirth": "01/01/2002",
+  "gender": true,
+  "class": "NJS1234",
+  "image": "https://znews-photo.zingcdn.me/w660/Uploaded/mfnuy/2022_09_12/1.jpg",
+  "feedback": "good",
+  "id": "1"
+ },
+ {
+  "name": "Messi",
+  "dateofbirth": "21/11/2002",
+  "gender": true,
+  "class": "NJS1234",
+  "image": "https://img.cand.com.vn/resize/800x800/NewFiles/Images/2021/08/07/Messi-1628305781807.jpg",
+  "feedback": "good",
+  "id": "2"
+ },
+ {
+  "name": "Kaka",
+  "dateofbirth": "23/01/2002",
+  "gender": true,
+  "class": "NJS1234",
+  "image": "https://cdn.tgdd.vn/Files/2023/05/27/1531730/thienthanbongda-kakasethamgiacacsukienquangbathuonghieuvasanphamcuaoppotrentoancau-270523-073819-800-resize.jpg",
+  "feedback": "good",
+  "id": "3"
+ },
+ {
+  "name": "Neymar",
+  "dateofbirth": "24/01/2002",
+  "gender": false,
+  "class": "NJS1234",
+  "image": "https://media.vov.vn/sites/default/files/styles/large/public/2022-10/neymar.jpg",
+  "feedback": "good",
+  "id": "4"
+ },
+ {
+  "name": "Harry Kane",
+  "dateofbirth": "25/01/2002",
+  "gender": true,
+  "class": "NJS1234",
+  "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3391,h_1907,x_0,y_196/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01gay2hgyt23agvt16mk.jpg",
+  "feedback": "good",
+  "id": "5"
+ },
+ {
+  "name": "Erling Haaland",
+  "dateofbirth": "26/01/2002",
+  "gender": false,
+  "class": "NJS12345",
+  "image": "https://cdn.theathletic.com/app/uploads/2022/09/07021831/ERLING-HAALAND-MANCHESTER-CITY-scaled-e1662531544452-1024x683.jpg",
+  "feedback": "good",
+  "id": "6"
+ },
+ {
+  "name": "Casemiro",
+  "dateofbirth": "27/09/2002",
+  "gender": true,
+  "class": "NJS1235",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlKbUoszHo21NJHdjrdX1ytk34_b6muLK7i_giF_Mclzw7IwmgUP-nwDrBHxXWTkQauc&usqp=CAU",
+  "feedback": "good",
+  "id": "7"
+ },
+ {
+  "name": "Xuka",
+  "dateofbirth": "12/07/2002",
+  "gender": true,
+  "class": "NJS1235",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlKbUoszHo21NJHdjrdX1ytk34_b6muLK7i_giF_Mclzw7IwmgUP-nwDrBHxXWTkQauc&usqp=CAU",
+  "feedback": "good",
+  "id": "8"
+ },
+ {
+  "name": "Dekhi",
+  "dateofbirth": "14/10/2002",
+  "gender": true,
+  "class": "NJS1235",
+  "image": "https://media.gq.com/photos/6303afa3a4a1f5315ac58561/master/pass/mane.jpg",
+  "feedback": "good",
+  "id": "9"
+ }
+]
